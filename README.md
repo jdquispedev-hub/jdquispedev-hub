@@ -3,7 +3,7 @@
 🎯 **Desarrollador Backend** con más de **3 años de experiencia** creando soluciones robustas, escalables y fáciles de mantener.  
 🚀 Actualmente cursando formaciones en **Platzi** para fortalecer mis habilidades y mantenerme actualizado en el ecosistema tech.
 
----
+----
 
 ## 🧠 Sobre mí
 
