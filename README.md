@@ -90,11 +90,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdquispedev-hub&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- 👇 Cambiamos el dominio de github-readme-stats a streak-stats.demolab.com -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=jdquispedev-hub&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdquispedev-hub&show_icons=true&theme=radical&hide_border=true)
+<!-- 👇 Mismo cambio de dominio aquí -->
+![GitHub Stats](https://streak-stats.demolab.com/api?username=jdquispedev-hub&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdquispedev-hub&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://streak-stats.demolab.com/api/top-langs/?username=jdquispedev-hub&layout=compact&theme=radical&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jdquispedev-hub&theme=radical&margin-w=10&no-frame=true)
 
