@@ -90,15 +90,15 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JesusDavidQuispeQuispe&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdquispedev-hub&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusDavidQuispeQuispe&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdquispedev-hub&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDavidQuispeQuispe&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdquispedev-hub&layout=compact&theme=radical&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JesusDavidQuispeQuispe&theme=radical&margin-w=10&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jdquispedev-hub&theme=radical&margin-w=10&no-frame=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JesusDavidQuispeQuispe&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=jdquispedev-hub&color=blue&style=flat)
 
 </div>
 
@@ -106,7 +106,7 @@
 
 ## 🌐 Encuéntrame
 
-- 🐙 GitHub: [@JesusDavidQuispeQuispe](https://github.com/JesusDavidQuispeQuispe)
+- 🐙 GitHub: [@jdquispedev-hub](https://github.com/jdquispedev-hub)
 
 
 
