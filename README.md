@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jesús+David+Quispe+Quispe;Backend+Developer+Apasionado;Construyendo+APIs+y+Arquitecturas;Bienvenido+a+mi+GitHub!)](https://git.io/typing-svg)
 
 **Desarrollador Backend** con más de **3 años de experiencia** creando soluciones robustas, escalables y fáciles de mantener.  
-🚀 Impulsando mis habilidades tecnológicas y en constante evolución.
+🚀 Impulsando mis habilidades tecnológicas y en constante evolución. 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
