@@ -61,6 +61,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 Estadísticas de GitHub
+## 📈 Actividad
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jdquispedev-hub&theme=github-dark)](https://github.com/jdquispedev-hub)
 
 <div align="center">
 
@@ -96,3 +99,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/jdquispedev-hub/jdquispedev-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
