@@ -1,18 +1,6 @@
 <div align="center">
 
-<!-- GIF Pixel Art + Título Animado -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Pixel Art Hacker" />
-    </td>
-    <td align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jesús+David;Backend+Developer+Apasionado;Construyendo+APIs+y+Arquitecturas;Bienvenido+a+mi+Terminal!" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jesús+David+Quispe+Quispe;Backend+Developer+Apasionado;Construyendo+APIs+y+Arquitecturas;Bienvenido+a+mi+GitHub!)](https://git.io/typing-svg)
 
 **Desarrollador Backend** con más de **3 años de experiencia** creando soluciones robustas, escalables y fáciles de mantener.  
 🚀 Impulsando mis habilidades tecnológicas y en constante evolución. 
@@ -25,10 +13,19 @@
 ## 👾 Sobre mí
 
 - 💻 Apasionado por construir APIs y arquitecturas backend eficientes.
-- 🔌 Experiencia adicional en infraestructura de redes (Cableado estructurado, Access Points, diagnósticos de conectividad).
+- 🔌 Experiencia en infraestructura de redes (Cableado estructurado, Access Points, diagnósticos de conectividad).
 - 🔄 En constante aprendizaje: siempre buscando nuevas herramientas, optimización de queries y enfoques limpios.
 - 🧪 Curioso por la inteligencia artificial y su integración en el desarrollo.
 - 📘 Fortaleciendo conocimientos en bases de datos, arquitectura de software (DDD, Hexagonal) y despliegues.
+
+## 🎧 Estado en Vivo 
+
+<!-- TARJETA DE LANYARD (DISCORD + SPOTIFY + VS CODE) -->
+<div align="center">
+  <a href="https://discord.com/users/TU_ID_DE_DISCORD">
+    <img src="https://lanyard.cnrad.dev/api/TU_ID_DE_DISCORD?theme=dark&bg=0d1117&animated=true" alt="Discord Presence" />
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
