@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Banner Espacial Animado (Enlace seguro y compatible) -->
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100%" alt="Galaxy Pixel Banner" style="border-radius: 15px;" />
+  <!-- Banner de IA / Flujo de Datos 3D -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jIGs1e/giphy.gif" width="100%" alt="AI Data Network" style="border-radius: 15px;" />
 
   <br><br>
 
-  <!-- Efecto de escritura Corregido (Sin acentos conflictivos y URL codificada) -->
+  <!-- Efecto de escritura -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola,+soy+Jesus+David+Quispe;Backend+Developer;Construyendo+APIs;Explorando+el+Codigo!" alt="Typing SVG" />
   </a>
@@ -12,7 +12,7 @@
   <p><b>Desarrollador Backend</b> con más de <b>3 años de experiencia</b> creando soluciones robustas, escalables y fáciles de mantener. 🚀</p>
 </div>
 
-<!-- Separador Galáctico (Línea Neón) -->
+<!-- Separador Neón -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </div>
@@ -31,7 +31,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <!-- GIF Astronauta Pixel Art (Servidor seguro de Giphy) -->
+        <!-- GIF Astronauta Pixel Art -->
         <img src="https://media.giphy.com/media/7ZgZmJVa3Qj1b6B7H6/giphy.gif" width="220px" alt="Pixel Art Astronaut" style="border-radius: 10px;" />
       </td>
     </tr>
@@ -41,23 +41,46 @@
 <br>
 
 ## 📡 Radar en Vivo (Discord)
-<!-- 
-IMPORTANTE: Reemplaza "123456789012345678" por tu ID REAL de Discord. 
-Si no sabes cómo obtenerlo: Ve a Discord > Ajustes > Avanzado > Activar Modo Desarrollador. 
-Luego haz clic derecho en tu perfil y dale a "Copiar ID". 
--->
 <div align="center">
-  <a href="https://discord.com/users/123456789012345678">
-    <img src="https://lanyard.cnrad.dev/api/123456789012345678?theme=dark&bg=0d1117&animated=true" alt="Discord Presence" />
+  <a href="https://discord.com/users/TU_ID_DE_DISCORD_AQUI">
+    <img src="https://lanyard.cnrad.dev/api/TU_ID_DE_DISCORD_AQUI?theme=dark&bg=0d1117&animated=true" alt="Discord Presence" />
   </a>
 </div>
 
-<!-- Separador Galáctico -->
+<!-- Separador Neón -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </div>
 
-## 🛠️ Tecnologías y Herramientas
+## 🧠 Ecosistema y Entorno de Trabajo
+
+### 🤖 IA, IDEs y Documentación
+![Windsurf](https://img.shields.io/badge/Windsurf-0D1117?style=flat-square&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=00BFFF)
+![Antigravity](https://img.shields.io/badge/Antigravity-4B0082?style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white)
+![AppFlowy](https://img.shields.io/badge/AppFlowy-000000?style=flat-square&logo=appflowy&logoColor=white)
+
+### 💻 Terminal, Navegador y Servidores
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
+![Zen Browser](https://img.shields.io/badge/Zen_Browser-1E1E1E?style=flat-square)
+![Termius](https://img.shields.io/badge/Termius-2A3644?style=flat-square&logo=termius&logoColor=white)
+
+### 🛠️ APIs y Gestión de Bases de Datos
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F05032?style=flat-square)
+![Beekeeper Studio](https://img.shields.io/badge/Beekeeper_Studio-FFD700?style=flat-square&logoColor=black)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+<!-- Separador Neón -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+</div>
+
+## ⚙️ Tecnologías Backend Base
 
 ### ☄️ Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -67,22 +90,15 @@ Luego haz clic derecho en tu perfil y dale a "Copiar ID".
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### 🌠 Frameworks y Librerías
+### 🌠 Frameworks y Arquitectura
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-
-### 🌌 Bases de Datos y Arquitectura
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<!-- Separador Galáctico -->
+<!-- Separador Neón -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </div>
@@ -109,7 +125,7 @@ Luego haz clic derecho en tu perfil y dale a "Copiar ID".
 
 </div>
 
-<!-- Separador Galáctico -->
+<!-- Separador Neón -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </div>
