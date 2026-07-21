@@ -4,9 +4,9 @@
 
   <br><br>
 
-  <!-- Efecto de escritura -->
+  <!-- Efecto de escritura Corregido -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E83E8C&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jesús+David+Quispe;Backend+Developer+Apasionado;Construyendo+APIs+y+Arquitecturas;Bienvenido+a+mi+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E83E8C&center=true&vCenter=true&width=600&lines=Hola%2C%20soy%20Jesús%20David%20Quispe;Backend%20Developer%20Apasionado;Construyendo%20APIs%20y%20Arquitecturas;Bienvenido%20a%20mi%20GitHub!" alt="Typing SVG" />
   </a>
 
   <p><b>Desarrollador Backend</b> con más de <b>3 años de experiencia</b> creando soluciones robustas, escalables y fáciles de mantener. 🚀</p>
@@ -20,7 +20,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="55%">
         <h2>👾 Sobre mí</h2>
         <ul>
           <li>💻 Apasionado por construir APIs y arquitecturas backend eficientes.</li>
@@ -30,9 +30,9 @@
           <li>📘 Fortaleciendo conocimientos en bases de datos, arquitectura de software (DDD, Hexagonal) y despliegues.</li>
         </ul>
       </td>
-      <td width="40%" align="center">
-        <!-- GIF Pixel Art acompañando tu info -->
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220px" alt="Pixel Art Coding Cat" />
+      <td width="45%" align="center">
+        <!-- GIF Habitación de programación Lo-Fi Pixel Art -->
+        <img src="https://i.pinimg.com/originals/a0/0b/df/a00bdf192e21b71158ef69c6ba16bf33.gif" width="100%" alt="Pixel Art Coding Room" style="border-radius: 10px;" />
       </td>
     </tr>
   </table>
@@ -86,7 +86,6 @@
 
 <!-- Gráfico con tema synthwave -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jdquispedev-hub&theme=react-dark)](https://github.com/jdquispedev-hub)
-
 
 <div align="center">
 
