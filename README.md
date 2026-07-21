@@ -85,7 +85,8 @@
 ## 📈 Estadísticas del Servidor
 
 <!-- Gráfico con tema synthwave -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jdquispedev-hub&theme=synthwave)](https://github.com/jdquispedev-hub)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jdquispedev-hub&theme=react-dark)](https://github.com/jdquispedev-hub)
+
 
 <div align="center">
 
