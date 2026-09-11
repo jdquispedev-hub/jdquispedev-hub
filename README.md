@@ -1,144 +1,147 @@
 <div align="center">
-  <!-- Banner de IA / Flujo de Datos 3D -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jIGs1e/giphy.gif" width="100%" alt="AI Data Network" style="border-radius: 15px;" />
+  <!-- Banner Futurista -->
+  <a href="https://github.com/jdquispedev-hub">
+    <img src="https://i.imgur.com/7b1X3Zz.gif" width="100%" alt="AI Data Network" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 229, 255, 0.3);" />
+  </a>
 
   <br><br>
 
-  <!-- Efecto de escritura -->
+  <!-- Efecto de escritura Neón -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola,+soy+Jesus+David+Quispe;Backend+Developer;Construyendo+APIs;Explorando+el+Codigo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hola,+soy+Jesus+David+Quispe+👋;Ingeniero+Backend+|+Arquitecto+de+APIs+⚙️;Transformando+Café+en+Código+Limpio+☕;Explorando+la+Inteligencia+Artificial+🤖" alt="Typing SVG" />
   </a>
 
-  <p><b>Desarrollador Backend</b> con más de <b>3 años de experiencia</b> creando soluciones robustas, escalables y fáciles de mantener. 🚀</p>
+  <p align="center" style="color: #8b949e; font-size: 16px;">
+    <i>Desarrollador Backend con más de 3 años construyendo el "motor" detrás de las ideas. <br> Apasionado por la escalabilidad, la infraestructura y el código elegante.</i>
+  </p>
+
+  <!-- Redes Sociales y Contacto -->
+  <div align="center">
+    <a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00e5ff&border=00e5ff" alt="Email"/></a>
+    <a href="https://linkedin.com/in/tu_perfil"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"/></a>
+    <a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=00e5ff" alt="Portfolio"/></a>
+  </div>
 </div>
 
-<!-- Separador Neón -->
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purplerain.png" width="100%" alt="Divider" />
+<br>
+
+## 🌌 Sobre mi Órbita
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="70%" style="border: none;">
+      <ul style="list-style-type: none;">
+        <li>🚀 <b>Misión:</b> Diseñar APIs y arquitecturas backend que soporten alta demanda de forma eficiente.</li>
+        <li>🛰️ <b>Hardware & Redes:</b> Sólida base en infraestructura (Cableado estructurado, APs, diagnósticos de red).</li>
+        <li>🔭 <b>Investigación actual:</b> Arquitectura Hexagonal, Domain-Driven Design (DDD) y optimización avanzada de queries.</li>
+        <li>🛸 <b>Intereses:</b> La sinergia entre Inteligencia Artificial y el desarrollo tradicional de software.</li>
+        <li>⚡ <b>Filosofía:</b> Escribir código para humanos primero, y para máquinas después.</li>
+      </ul>
+    </td>
+    <td width="30%" align="center" style="border: none;">
+      <!-- GIF Elegante de Astronauta/Cerebro -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRjZDI1MjEzMzQwZTMwY2I1ZjNmZGQ0Y2FlZDQ0Yjc0ZTc4M2M1OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200px" style="border-radius: 50%; box-shadow: 0 0 20px rgba(179, 146, 240, 0.5);" alt="Tech Mind" />
+    </td>
+  </tr>
+</table>
+
+## 📡 Radar en Vivo (Discord Status)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <a href="https://discord.com/users/TU_ID_DE_DISCORD_AQUI">
+    <!-- El fondo coincide exactamente con el dark mode de GitHub (#0d1117) -->
+    <img src="https://lanyard.cnrad.dev/api/TU_ID_DE_DISCORD_AQUI?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Presence" />
+  </a>
 </div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purplerain.png" width="100%" alt="Divider" />
+<br>
+
+## ⚙️ Arsenal Tecnológico
+
+<div align="center">
+
+### ☄️ Lenguajes Base
+<!-- Usando Skill Icons: Mucho más elegantes, redondeados y con relieve -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,py,js,ts,cs,bash&theme=dark" alt="Lenguajes" />
+</a>
+
+<br><br>
+
+### 🌠 Frameworks, Contenedores y SO
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,express,nodejs,docker,linux&theme=dark" alt="Frameworks" />
+</a>
+
+<br><br>
+
+### 🛠️ Bases de Datos y Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,gcp,aws&theme=dark" alt="Databases" />
+</a>
+
+<br><br>
+
+### 🧠 Entorno de Trabajo y Herramientas
+<!-- Para estas herramientas específicas, usamos un estilo For-The-Badge muy elegante -->
+<img src="https://img.shields.io/badge/Windsurf-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF&color=0D1117&labelColor=0D1117" alt="Windsurf" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&color=0D1117&labelColor=0D1117" alt="VSCode" />
+<img src="https://img.shields.io/badge/Obsidian-0D1117?style=for-the-badge&logo=obsidian&logoColor=7C3AED&color=0D1117&labelColor=0D1117" alt="Obsidian" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&color=0D1117&labelColor=0D1117" alt="Postman" />
+<img src="https://img.shields.io/badge/Termius-0D1117?style=for-the-badge&logo=termius&logoColor=00BFFF&color=0D1117&labelColor=0D1117" alt="Termius" />
+<img src="https://img.shields.io/badge/Zen_Browser-0D1117?style=for-the-badge&logo=brave&logoColor=FF4500&color=0D1117&labelColor=0D1117" alt="Zen" />
+<img src="https://img.shields.io/badge/Excalidraw-0D1117?style=for-the-badge&logo=excalidraw&logoColor=6965DB&color=0D1117&labelColor=0D1117" alt="Excalidraw" />
+
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purplerain.png" width="100%" alt="Divider" />
+<br>
+
+## 📈 Telemetría del Servidor (GitHub Stats)
+
+<div align="center">
+  <!-- Gráfico de actividad funcionando con paleta personalizada -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdquispedev-hub&bg_color=0D1117&color=00e5ff&line=b392f0&point=FFFFFF&hide_border=true&title_color=00e5ff" alt="Activity Graph" width="100%"/>
+</div>
+
+<br>
 
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
-        <h2>🌌 Sobre mí</h2>
-        <ul>
-          <li>🚀 <b>Apasionado</b> por construir APIs y arquitecturas backend eficientes.</li>
-          <li>🛰️ <b>Experiencia</b> en infraestructura de redes (Cableado estructurado, Access Points, diagnósticos).</li>
-          <li>🔭 <b>En constante aprendizaje:</b> siempre buscando nuevas herramientas, optimización de queries y enfoques limpios.</li>
-          <li>🛸 <b>Curioso</b> por la inteligencia artificial y su integración en el desarrollo.</li>
-          <li>🪐 <b>Fortaleciendo conocimientos</b> en bases de datos, arquitectura de software (DDD, Hexagonal) y despliegues.</li>
-        </ul>
+      <!-- Stats alineados perfectamente -->
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jdquispedev-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=c9d1d9&icon_color=b392f0" alt="GitHub Stats" />
       </td>
-      <td width="40%" align="center">
-        <!-- GIF Astronauta Pixel Art -->
-        <img src="https://media.giphy.com/media/7ZgZmJVa3Qj1b6B7H6/giphy.gif" width="220px" alt="Pixel Art Astronaut" style="border-radius: 10px;" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdquispedev-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=c9d1d9" alt="Top Languages" />
       </td>
     </tr>
   </table>
+  
+  <br>
+  
+  <img src="https://streak-stats.demolab.com/?user=jdquispedev-hub&hide_border=true&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
 
-## 📡 Radar en Vivo (Discord)
+### 🐍 Historial de Contribuciones
 <div align="center">
-  <a href="https://discord.com/users/TU_ID_DE_DISCORD_AQUI">
-    <img src="https://lanyard.cnrad.dev/api/TU_ID_DE_DISCORD_AQUI?theme=dark&bg=0d1117&animated=true" alt="Discord Presence" />
-  </a>
+  <!-- Asegúrate de tener configurado el Action de la serpiente en tu repositorio -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdquispedev-hub/jdquispedev-hub/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jdquispedev-hub/jdquispedev-hub/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jdquispedev-hub/jdquispedev-hub/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
-
-<!-- Separador Neón -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-</div>
-
-## 🧠 Ecosistema y Entorno de Trabajo
-
-### 🤖 IA, IDEs y Documentación
-![Windsurf](https://img.shields.io/badge/Windsurf-0D1117?style=flat-square&logo=openai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=00BFFF)
-![Antigravity](https://img.shields.io/badge/Antigravity-4B0082?style=flat-square)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white)
-![AppFlowy](https://img.shields.io/badge/AppFlowy-000000?style=flat-square&logo=appflowy&logoColor=white)
-
-### 💻 Terminal, Navegador y Servidores
-![Warp](https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white)
-![Zen Browser](https://img.shields.io/badge/Zen_Browser-1E1E1E?style=flat-square)
-![Termius](https://img.shields.io/badge/Termius-2A3644?style=flat-square&logo=termius&logoColor=white)
-
-### 🛠️ APIs y Gestión de Bases de Datos
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-F05032?style=flat-square)
-![Beekeeper Studio](https://img.shields.io/badge/Beekeeper_Studio-FFD700?style=flat-square&logoColor=black)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-<!-- Separador Neón -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-</div>
-
-## ⚙️ Tecnologías Backend Base
-
-### ☄️ Lenguajes
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### 🌠 Frameworks y Arquitectura
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<!-- Separador Neón -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-</div>
-
-## 📈 Panel de Control del Servidor
-
-<!-- Gráfico de actividad funcionando -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jdquispedev-hub&theme=tokyo-night&bg_color=0D1117&color=00BFFF&line=9370DB&point=FFFFFF&hide_border=true)](https://github.com/jdquispedev-hub)
-
-<div align="center">
-
-<!-- Servidor alternativo para el Streak, mucho más estable -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jdquispedev-hub&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 <br>
 
-<!-- Stats con tema tokyonight (tonos azules/espaciales) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdquispedev-hub&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdquispedev-hub&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jdquispedev-hub&color=00BFFF&style=flat-square&label=VISTAS+AL+PERFIL)
-
-</div>
-
-<!-- Separador Neón -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
-</div>
-
-## 🛸 Conexiones y Actividad
-
-<div align="center">
-  <a href="https://github.com/jdquispedev-hub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-### 🐍 Órbita de Contribuciones
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jdquispedev-hub/jdquispedev-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=jdquispedev-hub&color=00e5ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Vistas" />
 </div>
